@@ -25,6 +25,7 @@ body {
 }
 
 .table #nameAndCost p {
+    color: red;
     margin: 0px;
     width: 60%;
 }
